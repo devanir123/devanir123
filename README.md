@@ -1,5 +1,6 @@
--##### Sobre mim!
+-#####  SOBRE UE!#
 - 👀 Devanir;
 - 🌱 Profe de Matemática e Pens. Computacional;
-- Aprendendo no GITHAB;
+- Aprendendo no github;
+- :+1:**devanirl1no@hotmail.com
 
